@@ -1,0 +1,13 @@
+Ace of Diamonds
+Two of Diamonds
+Three of Diamonds
+Four of Diamonds
+Five of Diamonds
+Six of Diamonds
+Seven of Diamonds
+Eight of Diamonds
+Nine of Diamonds
+Ten of Diamonds
+Jack of Diamonds
+Queen of Diamonds
+King of Diamonds
